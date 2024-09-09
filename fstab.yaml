@@ -1,6 +1,11 @@
-mountpoints:
-  /: https://adobe.sharepoint.com/sites/edsdemo/Shared%20Documents/lpbeds/shmehta/shmehta-t-cv-01/carvelo
+#mounttpoints:
+  #/: https://adobe.sharepoint.com/sites/edsdemo/Shared%20Documents/lpbeds/shmehta/shmehta-t-cv-01/carvelo
 
+mountpoints:
+  /:
+    url: https://content.da.live/svfranklindemo/shmehta-wknd-30072024-62601/
+    type: markup
+    
 folders:
   /products/: /products/default
   /draft/commerce-sc/products/: /draft/commerce-sc/products/default
